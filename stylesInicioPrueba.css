@@ -1,0 +1,47 @@
+.inicio{
+	width: 100%;
+	margin: auto;
+
+}
+
+header{
+	width:70%;
+	background-color:green;
+	color:white;
+	padding-left:20px;
+}
+
+input[name="Ayuda"]{
+
+}
+
+
+h1{
+	text-align:center;
+}
+
+nav{
+	width:100%;
+	background-color:green;
+}
+
+img{
+	width:70%;
+	opacity: 0.25;
+}
+
+input[name="Aceptar"]{
+	background: red;
+        float: left;
+        position: absolute;
+	margin-left:2px;
+        }
+ 
+
+footer{
+	width:70%;
+	background-color:black;
+	color:white;
+	padding-left:40px;
+	text-align:center;
+}
